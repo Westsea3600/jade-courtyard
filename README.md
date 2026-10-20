@@ -2,9 +2,9 @@
 
 可交互的 Three.js 体素中国古典建筑群：六座古建、对称庭院、飞檐斗拱、水池石桥与秋色园林。
 
-预期访问地址（需先启用 GitHub Pages 并完成部署）：https://Westsea3600.github.io/jade-courtyard/
+**在线浏览：https://westsea3600.github.io/jade-courtyard/**
 
-本仓库为私有仓库；若启用 Pages，发布出的网页可公开访问。私有仓库的 Pages 可用性取决于 GitHub 账户套餐。
+本仓库已公开，通过 GitHub Pages 从 `main` 分支根目录发布，使用 HTTPS。
 
 打开即显示完整场景，支持拖拽旋转、滚轮缩放、建筑聚焦、自动环游、俯瞰，以及晨曦／暖阳／暮色光照。无需后端。
 
